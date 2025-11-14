@@ -1,0 +1,109 @@
+2025-11-14 23:17:03 [INFO] Navigating to: https://www.saucedemo.com/
+2025-11-14 23:17:04 [INFO] Logging as: standard_user
+2025-11-14 23:17:04 [INFO] Filling username: standard_user
+2025-11-14 23:17:04 [INFO] Filling password: [Protected]
+2025-11-14 23:17:04 [INFO] Clicking on login button
+2025-11-14 23:17:04 [INFO] Clicking on first product's add to cart button
+2025-11-14 23:17:04 [INFO] Clicking on cart icon
+2025-11-14 23:17:04 [INFO] Getting product name from cart page
+2025-11-14 23:19:54 [INFO] Navigating to: https://www.saucedemo.com/
+2025-11-14 23:19:55 [INFO] Logging as: standard_user
+2025-11-14 23:19:55 [INFO] Filling username: standard_user
+2025-11-14 23:19:55 [INFO] Filling password: [Protected]
+2025-11-14 23:19:55 [INFO] Clicking on login button
+2025-11-14 23:19:55 [INFO] Clicking on first product's add to cart button
+2025-11-14 23:19:55 [INFO] Clicking on cart icon
+2025-11-14 23:19:55 [INFO] Getting product name from cart page
+2025-11-14 23:19:55 [INFO] Clicking on menu icon
+2025-11-14 23:19:55 [INFO] Clicking on logout link
+2025-11-14 23:24:37 [INFO] Navigating to: https://www.saucedemo.com/
+2025-11-14 23:24:38 [INFO] Logging as: standard_user
+2025-11-14 23:24:38 [INFO] Filling username: standard_user
+2025-11-14 23:24:38 [INFO] Filling password: [Protected]
+2025-11-14 23:24:38 [INFO] Clicking on login button
+2025-11-14 23:24:38 [INFO] Clicking on first product's add to cart button
+2025-11-14 23:24:38 [INFO] Clicking on cart icon
+2025-11-14 23:24:38 [INFO] Getting product name from cart page
+2025-11-14 23:24:38 [INFO] Expected product name: Sauce Labs Backpack
+2025-11-14 23:24:38 [INFO] Actual product name: Sauce Labs Backpack
+2025-11-14 23:24:38 [INFO] Product name verification passed
+2025-11-14 23:24:38 [INFO] Clicking on menu icon
+2025-11-14 23:24:38 [INFO] Clicking on logout link
+2025-11-14 23:24:47 [INFO] Navigating to: https://www.saucedemo.com/
+2025-11-14 23:24:48 [INFO] Logging as: standard_user
+2025-11-14 23:24:48 [INFO] Filling username: standard_user
+2025-11-14 23:24:48 [INFO] Filling password: [Protected]
+2025-11-14 23:24:48 [INFO] Clicking on login button
+2025-11-14 23:24:48 [INFO] Clicking on first product's add to cart button
+2025-11-14 23:24:48 [INFO] Clicking on cart icon
+2025-11-14 23:24:48 [INFO] Getting product name from cart page
+2025-11-14 23:24:48 [INFO] Expected product name: Sauce Labs Backpack
+2025-11-14 23:24:48 [INFO] Actual product name: Sauce Labs Backpack
+2025-11-14 23:24:48 [INFO] Product name verification passed
+2025-11-14 23:24:48 [INFO] Clicking on menu icon
+2025-11-14 23:24:48 [INFO] Clicking on logout link
+2025-11-14 23:25:01 [INFO] Navigating to: https://www.saucedemo.com/
+2025-11-14 23:25:02 [INFO] Logging as: standard_user
+2025-11-14 23:25:02 [INFO] Filling username: standard_user
+2025-11-14 23:25:02 [INFO] Filling password: [Protected]
+2025-11-14 23:25:02 [INFO] Clicking on login button
+2025-11-14 23:25:02 [INFO] Clicking on first product's add to cart button
+2025-11-14 23:25:03 [INFO] Clicking on cart icon
+2025-11-14 23:25:03 [INFO] Getting product name from cart page
+2025-11-14 23:25:03 [INFO] Expected product name: Sauce Labs Backpack
+2025-11-14 23:25:03 [INFO] Actual product name: Sauce Labs Backpack
+2025-11-14 23:25:03 [INFO] Product name verification passed
+2025-11-14 23:25:03 [INFO] Clicking on menu icon
+2025-11-14 23:25:03 [INFO] Clicking on logout link
+2025-11-14 23:29:59 [INFO] Navigating to: https://www.saucedemo.com/
+2025-11-14 23:30:01 [INFO] Logging as: standard_user
+2025-11-14 23:30:01 [INFO] Filling username: standard_user
+2025-11-14 23:30:01 [INFO] Filling password: [Protected]
+2025-11-14 23:30:01 [INFO] Clicking on login button
+2025-11-14 23:30:01 [INFO] Clicking on first product's add to cart button
+2025-11-14 23:30:01 [INFO] Clicking on cart icon
+2025-11-14 23:30:01 [INFO] Getting product name from cart page
+2025-11-14 23:30:01 [INFO] Expected product name: Sauce Labs Backpack
+2025-11-14 23:30:01 [INFO] Actual product name: Sauce Labs Backpack
+2025-11-14 23:30:01 [INFO] Product name verification passed
+2025-11-14 23:30:01 [INFO] Clicking on menu icon
+2025-11-14 23:30:01 [INFO] Clicking on logout link
+2025-11-14 23:51:56 [INFO] Navigating to: https://www.saucedemo.com/
+2025-11-14 23:51:57 [INFO] Logging as: standard_user
+2025-11-14 23:51:57 [INFO] Filling username: standard_user
+2025-11-14 23:51:57 [INFO] Filling password: [Protected]
+2025-11-14 23:51:57 [INFO] Clicking on login button
+2025-11-14 23:51:57 [INFO] Clicking on first product's add to cart button
+2025-11-14 23:51:57 [INFO] Clicking on cart icon
+2025-11-14 23:51:57 [INFO] Getting product name from cart page
+2025-11-14 23:51:57 [INFO] Expected product name: Sauce Labs Backpack
+2025-11-14 23:51:57 [INFO] Actual product name: Sauce Labs Backpack
+2025-11-14 23:51:57 [INFO] Product name verification passed
+2025-11-14 23:51:57 [INFO] Clicking on menu icon
+2025-11-14 23:51:57 [INFO] Clicking on logout link
+2025-11-14 23:55:55 [INFO] Navigating to: https://www.saucedemo.com/
+2025-11-14 23:55:56 [INFO] Logging as: standard_user
+2025-11-14 23:55:56 [INFO] Filling username: standard_user
+2025-11-14 23:55:56 [INFO] Filling password: [Protected]
+2025-11-14 23:55:56 [INFO] Clicking on login button
+2025-11-14 23:55:56 [INFO] Clicking on first product's add to cart button
+2025-11-14 23:55:56 [INFO] Clicking on cart icon
+2025-11-14 23:55:56 [INFO] Getting product name from cart page
+2025-11-14 23:55:56 [INFO] Expected product name: Sauce Labs Backpack
+2025-11-14 23:55:56 [INFO] Actual product name: Sauce Labs Backpack
+2025-11-14 23:55:56 [INFO] Product name verification passed
+2025-11-14 23:55:56 [INFO] Clicking on menu icon
+2025-11-14 23:55:56 [INFO] Clicking on logout link
+2025-11-14 23:59:28 [INFO] Navigating to: https://www.saucedemo.com/
+2025-11-14 23:59:29 [INFO] Logging as: standard_user
+2025-11-14 23:59:29 [INFO] Filling username: standard_user
+2025-11-14 23:59:29 [INFO] Filling password: [Protected]
+2025-11-14 23:59:29 [INFO] Clicking on login button
+2025-11-14 23:59:29 [INFO] Clicking on first product's add to cart button
+2025-11-14 23:59:29 [INFO] Clicking on cart icon
+2025-11-14 23:59:29 [INFO] Getting product name from cart page
+2025-11-14 23:59:29 [INFO] Expected product name: Sauce Labs Backpack
+2025-11-14 23:59:29 [INFO] Actual product name: Sauce Labs Backpack
+2025-11-14 23:59:29 [INFO] Product name verification passed
+2025-11-14 23:59:29 [INFO] Clicking on menu icon
+2025-11-14 23:59:29 [INFO] Clicking on logout link
