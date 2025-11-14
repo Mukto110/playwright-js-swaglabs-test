@@ -3,12 +3,12 @@
 
 Clone the Repository
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Mukto110/playwright-js-swaglabs-test.git
 ```
 
 Navigate to Project Directory
 ```
-cd your-repo-name
+cd playwright-js-swaglabs-test
 ```
 
 Install Dependencies
@@ -23,7 +23,7 @@ npx playwright install
 
 Running Tests: 
 
-Run All Test
+Run All Tests
 ```
 npx playwright test
 ```
