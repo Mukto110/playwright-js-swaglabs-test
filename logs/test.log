@@ -107,3 +107,17 @@
 2025-11-14 23:59:29 [INFO] Product name verification passed
 2025-11-14 23:59:29 [INFO] Clicking on menu icon
 2025-11-14 23:59:29 [INFO] Clicking on logout link
+2025-11-15 00:25:34 [INFO] Navigating to: https://www.saucedemo.com/
+2025-11-15 00:25:35 [INFO] Logging as: standard_user
+2025-11-15 00:25:35 [INFO] Filling username: standard_user
+2025-11-15 00:25:35 [INFO] Filling password: [Protected]
+2025-11-15 00:25:35 [INFO] Clicking on login button
+2025-11-15 00:25:35 [INFO] Clicking on first product's add to cart button
+2025-11-15 00:25:35 [INFO] Clicking on cart icon
+2025-11-15 00:25:35 [INFO] Getting product name from cart page
+2025-11-15 00:25:35 [INFO] Expected product name: Sauce Labs Backpack
+2025-11-15 00:25:35 [INFO] Actual product name: Sauce Labs Backpack
+2025-11-15 00:25:35 [INFO] Product name verification passed
+2025-11-15 00:25:35 [INFO] Clicking on menu icon
+2025-11-15 00:25:35 [INFO] Clicking on logout link
+2025-11-15 00:25:36 [INFO] User got landed to the login page

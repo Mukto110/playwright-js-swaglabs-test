@@ -26,4 +26,5 @@ test("User logs in, adds product to cart, verifies it, and logs out", async ({ p
   await cartPage.logout();
 
   await expect(page).toHaveURL(testData.urls.loginUrl);
+  logger.info("User got landed to the login page");
 });
